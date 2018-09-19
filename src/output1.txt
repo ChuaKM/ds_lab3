@@ -1,0 +1,20 @@
+7 2 3 5 2 
+9 2 1 4 2 
+0 3 9 0 2 
+8 0 0 1 2 
+4 9 2 1 5 
+
+The Determinant of the matrix is: -1482
+
+
+3 
+
+The Determinant of the matrix is: 3
+
+
+3 4 
+3 2 
+
+The Determinant of the matrix is: -6
+
+
